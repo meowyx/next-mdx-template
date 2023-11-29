@@ -13,8 +13,8 @@ This project template is crafted using Next.js 14, integrated with `next-mdx-rem
 Begin by cloning the repository and installing the necessary dependencies:
 
 ```bash
-git clone https://github.com/meowyx/GasAPI-Template.git
-cd GasAPI-Template
+git clone https://github.com/meowyx/nex-mdx-template.git
+cd next-mdx-template
 npm install
 ```
 
