@@ -34,7 +34,7 @@ Navigate to http://localhost:3000 in your browser to view the application.
 
 **[Gui Bibeau](https://github.com/GuiBibeau)**
 
-- [LinkedIn](https://www.linkedin.com/in/guibibeau/)
+- [YouTube](https://www.youtube.com/@guibibeau)
 - [Twitter](https://twitter.com/GuiBibeau)
 
 ---
